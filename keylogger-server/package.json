@@ -1,0 +1,9 @@
+{
+  "name": "keylogger-server",
+  "version": "0.0.1",
+  "description": "displays logged keys on webpage",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
