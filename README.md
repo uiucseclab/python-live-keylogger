@@ -1,4 +1,5 @@
 # python_live_keylogger
+By Alec Fekete (fekete2)  
 Python keylogger which reports keystrokes to a Node.js server in real time using websockets.  
 The python component has been converted to a windows .exe for portability.  
 This executable can be found at /dist/keylogger/keylogger.exe  
